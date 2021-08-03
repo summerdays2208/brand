@@ -8,6 +8,8 @@
 ### 🖼썸네일
 ![03-full](https://user-images.githubusercontent.com/83056872/128043207-aadc3142-ba39-4295-9302-5d0319a53b75.jpg)
 
+### ✍중요
+
 **유튜브 영상을 이용하여 배경이 동영상인 웹페이지**
 ```html
 <div class="video-background">
